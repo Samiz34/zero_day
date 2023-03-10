@@ -1,2 +1,4 @@
-#!/bin/bash
-_emphasize_
+# Vagrant - or - how to code in your local computer
+* What is a virtual machine
+* What is Vagrant
+* What is Ubuntu
